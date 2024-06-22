@@ -3,6 +3,7 @@
 Welcome to my Apple clone website project! This repository houses a modern web application built with React.js, Three.js, React Three Fiber, React Three Drei, GSAP (Greensock), Vite, and Tailwind CSS. Below, I've included some important information about the project structure, features.
 
 🌈Features
+-------------
 .Beautiful Subtle Smooth Animations using GSAP
 Enhance user experience with seamless and captivating animations powered by GSAP. From subtle transitions to engaging interactive elements, animations play a key role in making the browsing experience delightful.
 
@@ -18,7 +19,8 @@ The website is fully responsive, ensuring optimal viewing experience across devi
 .Code Architecture and Reusability
 The project follows a modular and scalable architecture, leveraging React.js components for reusability and maintainability. Components are designed to be flexible, allowing easy integration of new features and enhancements.
 
-Technologies Used
+Technologies Used :
+-------------------
 ⚛️ React.js: Frontend library for building user interfaces.
 🌐 Three.js: JavaScript library for creating 3D graphics.
 🔶 React Three Fiber: React renderer for Three.js.
@@ -27,7 +29,8 @@ Technologies Used
 🚀 Vite: Next-generation frontend tooling for fast development.
 🎨 Tailwind CSS: Utility-first CSS framework for styling.
 
-🔧Installation and Setup
+🔧Installation and Setup :
+---------------------------
 Follow these steps to run the project locally:
 
 i. Clone the repository:

@@ -1,4 +1,5 @@
 🍏Apple Clone Website🍏
+-------------------------
 Welcome to my Apple clone website project! This repository houses a modern web application built with React.js, Three.js, React Three Fiber, React Three Drei, GSAP (Greensock), Vite, and Tailwind CSS. Below, I've included some important information about the project structure, features.
 
 🌈Features
